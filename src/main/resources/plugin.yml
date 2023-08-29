@@ -1,0 +1,4 @@
+name: SGShop
+version: '${project.version}'
+main: tech.secretgarden.sgshop.SGShop
+api-version: 1.20
